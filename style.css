@@ -120,3 +120,6 @@ h4{
 .col-4:hover{
     transform: translateY(-10px);
 }
+.col-2 .offer-img{
+    padding: 50px;
+}
